@@ -1,0 +1,7 @@
+---- About ----
+
+nim-pythonmath is a Nim module meant to provide an interface as similar as possible to Python's math libary.
+
+---- License ----
+
+nim-pythonmath is released under the MIT open source license.
